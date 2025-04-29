@@ -9,6 +9,11 @@
 📂 Explore my projects to see my learning journey.  
 📬 How to reach me: habibazeem658@gmail.com
 
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-ur-rehman-66a80428b/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:habibazeem658@gmail.com)
+
 ## 🛠️ Languages and Tools I Use
 
 <p align="left">
@@ -26,12 +31,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HabibUrRehman-mk&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehman-mk&layout=compact)
 
 ---
 
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-ur-rehman-66a80428b/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:habibazeem658@gmail.com)
