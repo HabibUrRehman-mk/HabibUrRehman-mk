@@ -6,7 +6,7 @@
 - **Object-Oriented Programming (OOP)**
 - **Databases (SQL)**
 
-📂 Explore my projects to see my learning journey.  
+📂 Explore my profile to see my learning journey.  
 📬 How to reach me: habibazeem658@gmail.com
 
 ## 🔗 Let's Connect
