@@ -7,7 +7,7 @@ Always eager to explore new technologies and improve through hands-on experience
 💡 Currently focused on mastering:  
 - **Data Structures & Algorithms**
 - **Object-Oriented Programming (OOP)**
-- **Databases (SQL)**
+- **Databases**
 
 📂 Explore my profile to see my learning journey.  
 📬 Reach me at: **habibazeem658@gmail.com**
