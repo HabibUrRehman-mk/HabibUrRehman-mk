@@ -39,16 +39,8 @@ Always eager to explore new technologies and improve through hands-on experience
 
 ---
 
-## 📊 GitHub Stats
-
-![Habib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HabibUrRehman-mk&show_icons=true&theme=tokyonight)  
+## Languages I most use
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehman-mk&layout=compact)
-
----
-
-## 💡 Personal Motto
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 
 ---
 
