@@ -1,21 +1,27 @@
 # Hi 👋, I'm HABIB UR REHMAN
 
-🎓 I’m a 4th Semester BS Computer Science student passionate about problem solving.  
-💡 Currently focused on mastering **Core Programming Concepts**, especially:
-- **Data Structures**
+👨‍💻 Passionate about learning and applying programming skills to real-world projects.  
+Always eager to explore new technologies and improve through hands-on experience.  
+
+🎓 **BS Computer Science – 4th Semester**  
+💡 Currently focused on mastering:  
+- **Data Structures & Algorithms**
 - **Object-Oriented Programming (OOP)**
 - **Databases (SQL)**
 
 📂 Explore my profile to see my learning journey.  
-📬 How to reach me: habibazeem658@gmail.com
+📬 Reach me at: **habibazeem658@gmail.com**
+
+---
 
 ## 🔗 Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-ur-rehman-66a80428b/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:habibazeem658@gmail.com)
 
+## 🏆 Problem-Solving Profiles
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/habibazeem658)
 
+---
 
 ## 🛠️ Languages and Tools I Use
 
@@ -31,8 +37,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>
 </p>
 
+---
 
+## 📊 GitHub Stats
+
+![Habib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HabibUrRehman-mk&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehman-mk&layout=compact)
+
+---
+
+## 💡 Personal Motto
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 
 ---
 
