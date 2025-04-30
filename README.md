@@ -38,8 +38,6 @@ Always eager to explore new technologies and improve through hands-on experience
 </p>
 
 ---
-
-## Languages I most use
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehman-mk&layout=compact)
 
 ---
