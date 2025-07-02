@@ -10,13 +10,13 @@ Always eager to explore new technologies and improve through hands-on experience
 - **Databases**
 
 📂 Explore my profile to see my learning journey.  
-📬 Reach me at: **habibazeem658@gmail.com**
+📬 Reach me at: **mail.habiburrehman@gmail.com**
 
 ---
 
 ## 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-ur-rehman-66a80428b/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:habibazeem658@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mail.habiburrehman@gmail.com)
 
 ## 🏆 Problem-Solving Profiles
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/habibazeem658)
