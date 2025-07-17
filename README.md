@@ -35,13 +35,11 @@ Always eager to explore new technologies and improve through hands-on experience
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" width="50" height="50" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-only.png" width="50" height="50" alt="Seaborn"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="60" height="60" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" height="60" alt="Seaborn"/>
 </p>
-
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehman-mk&layout=compact)
