@@ -6,7 +6,6 @@ Always eager to explore new technologies and improve through hands-on experience
 🎓 **BS Computer Science – 5th Semester**  
 💡 Currently focused on mastering:  
 - **Data Structures & Algorithms**
-- **Object-Oriented Programming (OOP)**
 - **Databases**
 - **Data Science and Machine learning**
 
