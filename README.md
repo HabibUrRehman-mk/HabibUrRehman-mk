@@ -3,7 +3,7 @@
 👨‍💻 Passionate about learning and applying programming skills to real-world projects.  
 Always eager to explore new technologies and improve through hands-on experience.  
 
-🎓 **BS Computer Science – %th Semester**  
+🎓 **BS Computer Science – 5th Semester**  
 💡 Currently focused on mastering:  
 - **Data Structures & Algorithms**
 - **Object-Oriented Programming (OOP)**
@@ -42,7 +42,7 @@ Always eager to explore new technologies and improve through hands-on experience
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40" alt="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40" alt="Seaborn"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" alt="Jupyter"/>
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="60" height="40" alt="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
 </p>
 
 
