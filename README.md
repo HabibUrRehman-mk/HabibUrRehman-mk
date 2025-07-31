@@ -39,7 +39,10 @@ Always eager to explore new technologies and improve through hands-on experience
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="60" height="60" alt="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" height="60" alt="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" height="60" alt="Jupyter Notebook"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="90" height="60" alt="Scikit-learn"/>
 </p>
+
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehman-mk&layout=compact)
