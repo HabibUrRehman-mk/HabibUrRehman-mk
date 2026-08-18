@@ -1,57 +1,49 @@
-# Hi 👋, I'm HABIB UR REHMAN
+<div align="center">
 
-👨‍💻 Passionate about learning and applying programming skills to real-world projects.  
-Always eager to explore new technologies and improve through hands-on experience.  
+# Habib ur Rehman
+### Data Scientist & AI/ML Engineer
+Building production-ready AI agents, MLOps pipelines, and scalable data solutions.
 
-🎓 **BS Computer Science – 6th Semester**  
-💡 Currently focused on mastering:  
-- **Data Structures & Algorithms**
-- **Databases**
-- **Data Science and Machine learning**
-
-📂 Explore my profile to see my learning journey.  
-📬 Reach me at: **mail.habiburrehman@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/habiburrehman-da)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://habiburrehman.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mail.habiburrehman@gmail.com)
 
 ---
 
-## 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-ur-rehman-66a80428b/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mail.habiburrehman@gmail.com)
+</div>
 
-## 🏆 Problem-Solving Profiles
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/habibazeem658)
+### 🛠 Tech Stack
 
----
+**Languages & Core Frameworks**  
+`Python` `SQL` `C++` `Java` `FastAPI` `Django`
 
-## 🛠️ Languages and Tools I Use
+**AI / Machine Learning & Orchestration**  
+`LangGraph` `LangChain` `Scikit-learn` `TensorFlow` `Pandas` `NumPy`
 
-<h3 align="left">🔧 Languages and Tools I Use</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" height="60" alt="PyCharm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" alt="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="60" height="60" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120" height="60" alt="Seaborn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" height="60" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tensorflow.svg" 
-     width="60" height="60" alt="TensorFlow" />
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/langchain.svg" 
-     width="60" height="60" alt="LangChain" />
-</p>
-
-
----
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehman-mk&layout=compact)
+**MLOps, Cloud & Infrastructure**  
+`Docker` `AWS` `NGINX` `Git` `MySQL` `SQLite`
 
 ---
 
+### 🚀 Key Projects
+
+* **Autonomous Research Agent** — Stateful multi-agent research loop built with LangGraph, FastAPI, and Docker, featuring automated gap analysis and trace observability via LangSmith[cite: 1].
+* **Pharmacy Sales Predictive Pipeline** — End-to-end MLOps pipeline featuring regression modeling (95% accuracy), containerized FastAPI backend, and secure DigitalOcean deployment[cite: 1].
+* **AI-Powered Business Analytics Dashboard** — Schema-aware Text-to-SQL analytics agent using Google Gemini API and LangChain with custom two-layer execution guardrails[cite: 1].
+
+---
+
+### 📜 Certifications & Honors
+
+* **AWS Certified Cloud Practitioner**[cite: 1]
+* **IBM Data Science Professional Certificate**[cite: 1]
+* **Prime Minister’s Laptop Award** — National Merit Scheme (3.96 CGPA)[cite: 1]
+
+---
+
+<div align="center">
+
+[![Habib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HabibUrRehman-mk&show_icons=true&theme=dark&hide_border=true)](https://github.com/HabibUrRehman-mk)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehman-mk&layout=compact&theme=dark&hide_border=true)](https://github.com/HabibUrRehman-mk)
+
+</div>
